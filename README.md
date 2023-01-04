@@ -2,6 +2,8 @@
 
 This repository is for showing how Git and GitHub work
 
+This is for a simple website
+
 ## Purpose
 
 ## Deployment
